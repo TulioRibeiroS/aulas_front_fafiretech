@@ -42,3 +42,9 @@ body {
     color: aqua;
     background-color: blueviolet;
 } */
+
+
+#divpai > div {
+    /* vai pegar em todos os filhos */
+    margin: 10px 0px;
+}
